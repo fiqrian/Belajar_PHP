@@ -1,0 +1,11 @@
+MODEFIER     CLASS     SUBCLASS   WORLD
+
+PUBLIC         Y          Y         Y
+PROTECTED      Y          Y         N
+PRIVATE        Y          N         N
+
+PUBLIC class bisa diakses dari dalam class,Class turunan dan luar class 
+PROTECTED bisa diakses dari dalam class dan class turunanya saja
+PRIVATE hanya diakses dari dalam class saja 
+
+contoh di file PRODUCT DAN VISIBILTY
